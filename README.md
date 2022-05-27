@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luan.
-- 📚 I’m a student from Brazil, I’m 15 years old, I'm a sophomore in a high school.
+- 📚 I’m a student from Brazil, I’m 15 years old, I'm a junior in a high school.
 - 🌱 I’m currently learning html, css, javascript, php, python and c#, I’m learning many programming languages to get general knowledge...
 - 💞️ I’m broadening my knowledge in general, because I don't like it when someone asks me something and I don't have the answer, I've always liked to help people...
 - 🎓 I want to be a systems consultant, systems analyst or apply for a college to study information security.
