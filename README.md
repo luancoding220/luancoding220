@@ -1,7 +1,15 @@
 - 👋 Hi, I’m Luan.
 - 📚 I’m a student from Brazil, I’m 15 years old, I'm a junior in a high school.
-- 🌱 I’m currently learning html, css, javascript, php, python and c#, I’m learning many programming languages to get general knowledge...
-- 💞️ I’m broadening my knowledge in general, because I don't like it when someone asks me something and I don't have the answer, I've always liked to help people...
+- 🌱 I’m currently learning html, css, javascript, php, python, c# and sql, I’m learning many programming languages to get general knowledge...
+- HTML5
+- CSS
+- JAVASCRIPT(REACT)
+- PHP
+- PYTHON(DJANGO, FLASK)
+- C#
+- SQL
+- 💻 Using Visual Studio Code(VsCode) as source code editor
+- 💻 Using Visual Studio as IDE for c#
 - 🎓 I want to be a systems consultant, systems analyst or apply for a college to study information security.
 - 📫 How to reach me, you can send me a message in my email(luanfp01@gmail.com)...
 - 👨‍🎓 Looking for an Internship...
