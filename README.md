@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luan.
 - 📚 I’m a student from Brazil, I’m 15 years old, I'm a junior in a high school.
-- 🌱 I’m currently learning html, css, javascript, php, python, c# and sql, I’m learning many programming languages to get general knowledge...
+- 🌱 I’m currently many things, such as:
 - HTML5
 - CSS
 - JAVASCRIPT(REACT)
