@@ -10,7 +10,6 @@
 - SQL
 - 💻 Using Visual Studio Code(VsCode) as source code editor
 - 💻 Using Visual Studio as IDE for c#
-- 🎓 I want to be a systems consultant, systems analyst or apply for a college to study information security.
 - 📫 How to reach me, you can send me a message in my email(luanfp01@gmail.com)...
 - 👨‍🎓 Looking for an Internship...
 
