@@ -9,6 +9,7 @@
 - C#
 - SQL
 - 🎓 Focusing more in python...
+- 💻 Using Pycharm as IDE for python
 - 💻 Using Visual Studio Code(VsCode) as source code editor
 - 💻 Using Visual Studio as IDE for c#
 - 📫 How to reach me, you can send me a message in my email(luanfp01@gmail.com)...
