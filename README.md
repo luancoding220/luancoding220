@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luan.
-- 📚 I’m a student from Brazil, I’m 15 years old, I'm a junior in a high school.
+- 📚 I’m a student from Brazil, I’m 16 years old, I'm a senior in high school.
 - 🌱 I’m currently learning many things, such as:
 - HTML5
 - CSS
