@@ -5,7 +5,7 @@
 - CSS
 - JAVASCRIPT(REACT)
 - PHP
-- PYTHON(DJANGO, FLASK)
+- PYTHON(Pandas, Numpy, Matplotlib, API)
 - C#
 - SQL
 - 🎓 Focusing more in python...
