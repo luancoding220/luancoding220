@@ -1,5 +1,3 @@
-![image](https://github.com/luancoding220/luancoding220/assets/95927215/36225dad-5302-49be-8db3-5a9146590618)# Hi there, I am Luan!
-
 ## 🎓 About me:
 * 🌐 Based in Brazil
 * 📚 Currently studying Computer Science at Universidade Católica de Santos(Unisantos)
