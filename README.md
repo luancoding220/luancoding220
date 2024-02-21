@@ -1,3 +1,5 @@
+# 🤙🏻 Hi there, I am Luan!
+
 ## 🎓 About me:
 * 🌐 Based in Brazil
 * 📚 Currently studying Computer Science at Universidade Católica de Santos(Unisantos)
