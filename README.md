@@ -7,7 +7,7 @@
 
 ## 💭 Professional Interests:
 * 💻 Deeply fascinated by all things in computer science - focusing more in AI and Data Science
-* 🛠️ Developing intuitive and helpful projects[
+* 🛠️ Developing intuitive and helpful projects
 * 🔖 Continuously exploring new technologies and techniques
 
 ## 🧠 What I'm up to:
