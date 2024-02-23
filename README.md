@@ -21,7 +21,8 @@
 ## 📫 Get in touch:
 * 🆓 Feel free to contact me and ask anything you want to know
 * 📧 Email me: luanfp01@gmail.com
-* 🔗 [aa](www.linkedin.com/in/luan-felix-pereira-060991257)
+* 🔗 [Linkedin Profile](www.linkedin.com/in/luan-felix-pereira-060991257)
+* [Text](https://www.linkedin.com/in/luan-felix-pereira-060991257/)
 <!---
 luancoding220/luancoding220 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
