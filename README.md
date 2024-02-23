@@ -15,8 +15,8 @@
 * 🔎 Looking to collaborate on innovative projects
 
 ## 📈 My goals:
-* 🌠 To develop softwares that makes the difference
-* 🛜 To connect and cooperate with developer colleagues[
+* 🌠 To develop projects that makes the difference
+* 🛜 To connect and cooperate with developer colleagues
 
 ## 📫 Get in touch:
 * 🆓 Feel free to contact me and ask anything you want to know
